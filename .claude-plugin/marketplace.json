@@ -1,0 +1,17 @@
+{
+  "name": "geunwoo",
+  "owner": {
+    "name": "Geunwoo Jun",
+    "url": "https://github.com/geunwoojun99"
+  },
+  "description": "Geunwoo Jun's agent skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "geunwoo-skills",
+      "source": "./",
+      "description": "Geunwoo Jun's agent skills for focused engineering sessions.",
+      "category": "productivity",
+      "keywords": ["skills", "productivity"]
+    }
+  ]
+}

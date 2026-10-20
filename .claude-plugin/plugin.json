@@ -1,0 +1,15 @@
+{
+  "name": "geunwoo-skills",
+  "version": "0.1.0",
+  "description": "Geunwoo Jun's agent skills for focused engineering sessions.",
+  "author": {
+    "name": "Geunwoo Jun",
+    "url": "https://github.com/geunwoojun99"
+  },
+  "repository": "https://github.com/geunwoojun99/skills",
+  "license": "MIT",
+  "keywords": ["skills", "productivity"],
+  "skills": [
+    "./skills/productivity/one-thing"
+  ]
+}

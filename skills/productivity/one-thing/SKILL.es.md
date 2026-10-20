@@ -13,3 +13,7 @@ Elige una sola palanca. Debe poder empezarse ahora mismo. Explica por qué es la
 Después, pide al usuario las decisiones necesarias para llevar a cabo la palanca según su intención. Llevarla a cabo en contra de su intención hace que la palanca, en cambio, aumente el trabajo restante. En trabajo de programación, estas decisiones tratan sobre todo de interfaces de CLI y de funciones, los datatypes principales y los límites de propiedad y responsabilidad entre módulos.
 
 Empieza con la palanca solo después de que el usuario responda.
+
+---
+
+Inspirado en *The ONE Thing*, de Gary Keller y Jay Papasan.

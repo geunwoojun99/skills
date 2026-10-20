@@ -13,3 +13,7 @@ Pick exactly one lever. It must be something you can start right now. Explain wh
 Then ask the user for the decisions needed to carry out the lever the way they intend. Carrying it out against their intent makes the lever add to the remaining work instead. In coding work, these decisions are mostly about CLI and function interfaces, key datatypes, and ownership and responsibility boundaries between modules.
 
 Start on the lever only after the user answers.
+
+---
+
+Inspired by *The ONE Thing* by Gary Keller and Jay Papasan.

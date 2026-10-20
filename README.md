@@ -28,6 +28,6 @@ npx skills@latest add geunwoojun99/skills
 
 ### Productivity
 
-- **[one-thing](./skills/productivity/one-thing/SKILL.md)** (user-invoked): Name the session's ultimate goal and the single lever that makes every other task easier or unnecessary. ([한국어](./skills/productivity/one-thing/SKILL.ko.md) · [Español](./skills/productivity/one-thing/SKILL.es.md) · [日本語](./skills/productivity/one-thing/SKILL.ja.md))
+- **[one-thing](./skills/productivity/one-thing/SKILL.md)** (user-invoked): Name the session's ultimate goal and the single lever that makes every other task easier or unnecessary. Inspired by *The ONE Thing* by Gary Keller and Jay Papasan. ([한국어](./skills/productivity/one-thing/SKILL.ko.md) · [Español](./skills/productivity/one-thing/SKILL.es.md) · [日本語](./skills/productivity/one-thing/SKILL.ja.md))
 
 Each skill's `SKILL.md` is in English. Korean, Spanish and Japanese translations live next to it for reading; agents load only `SKILL.md`.

@@ -2,17 +2,23 @@
 
 ## Skill languages
 
-`SKILL.md` is the canonical file and is always written in English. Agents load only `SKILL.md`.
+Every skill is maintained in four languages:
 
-Every skill directory also keeps these translations next to it:
+| File | Language |
+| :--- | :--- |
+| `SKILL.md` | English (canonical; the only file agents load) |
+| `SKILL.ko.md` | Korean |
+| `SKILL.es.md` | Spanish |
+| `SKILL.ja.md` | Japanese |
 
-- `SKILL.ko.md` (Korean)
-- `SKILL.zh-CN.md` (Simplified Chinese)
-- `SKILL.ja.md` (Japanese)
+The same applies to any other Markdown file inside a skill directory: write `<name>.md` in English and keep `<name>.ko.md`, `<name>.es.md` and `<name>.ja.md` next to it.
 
 Rules:
 
-- Any change to `SKILL.md` updates every translation in the same commit. A translation never drifts from `SKILL.md`.
-- Translations keep the frontmatter of `SKILL.md` unchanged and translate only the body.
-- Translations carry the same meaning, not a looser paraphrase. Keep code identifiers and technical terms (CLI, datatype, etc.) as they appear in `SKILL.md`.
-- A new skill ships with `SKILL.md` and all translations at once.
+- Write `<name>.md` in English first, then translate it.
+- Keep all four files synchronized in the same change. Headings, normative rules, code examples and warnings must remain semantically equivalent. A review correction to any language updates the others before the change is complete.
+- Translations copy the frontmatter of `<name>.md` unchanged and translate only the body. Keep code identifiers and technical terms as they appear in English.
+- Put the same language-link line directly under the frontmatter (or at the top, without frontmatter) of all four files:
+  `[English](SKILL.md) · [한국어](SKILL.ko.md) · [Español](SKILL.es.md) · [日本語](SKILL.ja.md)`
+- A new skill ships with all four files at once.
+- Repository-level files (`README.md`, `CLAUDE.md`, plugin manifests) are English only.

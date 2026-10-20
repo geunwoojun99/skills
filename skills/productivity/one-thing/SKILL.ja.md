@@ -4,6 +4,8 @@ description: Name the session's ultimate goal and the single lever that makes ev
 disable-model-invocation: true
 ---
 
+[English](SKILL.md) · [한국어](SKILL.ko.md) · [Español](SKILL.es.md) · [日本語](SKILL.ja.md)
+
 このセッションの最終的な目的を明らかにし、その目的のために今すぐできる**ただ一つのこと**を見つけます。それを行えば、残りの作業がより簡単になるか、不要になるものでなければなりません。これを**てこ**と呼びます。目の前の作業を一つずつ片付けるより、まずてこを一つ引くほうが目的に早くたどり着けるからです。
 
 てこは一つだけ選びます。今すぐ始められるものでなければなりません。なぜそれがてこなのかを、残りの作業に照らして説明します。

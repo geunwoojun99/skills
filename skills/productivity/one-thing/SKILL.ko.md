@@ -4,6 +4,8 @@ description: Name the session's ultimate goal and the single lever that makes ev
 disable-model-invocation: true
 ---
 
+[English](SKILL.md) · [한국어](SKILL.ko.md) · [Español](SKILL.es.md) · [日本語](SKILL.ja.md)
+
 이 세션의 궁극적 목적을 밝히고, 그 목적을 위해 지금 당장 할 수 있는 **단 하나의 일**을 찾습니다. 그 일을 하면 남은 다른 일이 더 쉬워지거나 필요 없어져야 합니다. 이 일을 **지렛대**라고 부릅니다. 눈앞의 작업을 하나씩 처리하는 것보다 지렛대 하나를 먼저 당기는 편이 목적에 더 빨리 닿기 때문입니다.
 
 지렛대는 하나만 고릅니다. 지금 바로 시작할 수 있어야 합니다. 왜 그 일이 지렛대인지 남은 일에 비추어 밝힙니다.
